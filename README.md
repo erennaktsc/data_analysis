@@ -1,1 +1,1 @@
-# Numpy-Ders-Notlarim
+# Çalışma Notlarım
