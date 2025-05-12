@@ -6,7 +6,7 @@ Bu proje, Python programlama dili ve popüler veri analiz kütüphaneleri (NumPy
 
 ## Çalışırken bu eklentileri kullandım
 
-- Python 3.x
+- Python 
 - Jupyter Notebook
 - NumPy
 - Pandas
